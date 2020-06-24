@@ -42,7 +42,7 @@ public class GroupOfCards {
      * @return the size of the group of cards
      */
     public int getSize() {
-        return size;
+        return size; // size of the group of cards
     }
 
     /**
